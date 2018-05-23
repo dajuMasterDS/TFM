@@ -1,5 +1,5 @@
 # TFM
-Project TFM Kscholl 2018.
+Project TFM Kschool 2018.
 
 A Project of David Zarco & Julián Guerrero.
 
