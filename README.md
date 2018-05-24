@@ -3,7 +3,7 @@ VI Master Data Science Kschool 2018.
 
 A Project of David Zarco & Julián Guerrero.
 
-"Analysis and Study of Industrial Pollutants emissions in Spain from the years 2001 to 2015. Relationship with deaths to 2012 until 2015"
+"Analysis and Study of Industrial Pollutants emissions in Spain from 2001 to 2015. Relationship with data of deaths from 2012 to 2015"
 
 El trabajo consistirá en un análisis a partir de datos abiertos extraídos del organismo estatal de fuentes contaminantes PRTR (http://www.prtr-es.es/) y datos de fallecimientos del total de la población española obtenidos del INE (http://www.ine.es) . Estos últimos datos (microdatos) están sujetos a confidencialidad y sólo pueden utilizarse bajo condiciones contractuales firmadas con el INE, es decir exclusivamente con fines de investigación y para el presente Proyecto, no pudiéndose hacer públicos bajo ningún concepto.
 
