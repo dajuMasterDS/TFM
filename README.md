@@ -9,10 +9,10 @@ El trabajo consistirá en un análisis a partir de datos abiertos extraídos del
 
 El estudio tratará de establecer relaciones entre las emisiones emitidas desde el año 2001 al 2015 y los fallecimientos ocurridos en todo el territorio español entre los años 2014-2015. Para ello se utilizarán técnicas y métodos aprendidos durante el Master, generando un modelo el cual nos pueda establecer relaciones entre diversas causas.
 
-El trabajo seguirá un orden y consistirá en los siguiente:
+El trabajo seguirá un orden y tendrá las siguientes fases:
 
 -	Obtención y adquisición de datos.
 - Limpieza y preparación del dato.
--	Análisis de datos. Establecimiento de modelos.
--	Presentación y visualización. Resultados.
+-	Análisis de datos. Elaboración del modelo.
+-	Presentación y visualización del dato. Resultados.
 -	Conclusiones finales.
